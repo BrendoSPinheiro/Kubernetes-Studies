@@ -1,0 +1,39 @@
+# Arquivos de Ajuda
+HELP.md
+
+# Diretórios e arquivos de Build
+target/
+build/
+**/target/
+**/build/
+
+# Maven
+!.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot Gradle Plugin
+!.gradle/
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
