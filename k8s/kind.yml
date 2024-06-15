@@ -1,5 +1,5 @@
 # Este arquivo define como será criado o cluster kubernetes
-kind: Cluster 
+kind: Cluster
 apiVersion: kind.x-k8s.io/v1alpha4 # Define qual api que o kind irá utilizar para criar o cluster
 name: k8s-studies # Nome do cluster
 
